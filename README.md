@@ -17,3 +17,4 @@ Final summary string
 
 ![alt text](http://127.0.0.1:8044/api/admin")
 
+[logo]: http://localhost:8044/api/admin "Logo Title Text 2"
