@@ -1,4 +1,4 @@
 # testrepo
 test repo
 
-{{os.environ.get('API_PASSWORD')}}
+{{os.environ.get('flag')}}
