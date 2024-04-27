@@ -1,4 +1,4 @@
 # testrepo
 test repo
 
-{{os.environ.get('flag')}}
+{os.environ.get('flag')}
