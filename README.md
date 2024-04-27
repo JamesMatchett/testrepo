@@ -14,3 +14,6 @@ test
 {{"This is another string"}} 
 
 Final summary string
+
+![alt text](http://127.0.0.1:8044/api/admin")
+
